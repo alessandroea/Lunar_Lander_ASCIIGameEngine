@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\ale-a\source\repos\ASCIIGameEngine\GameObjects.h(48,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ale-a\source\repos\ASCIIGameEngine\GameObjects.h(49,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ale-a\source\repos\ASCIIGameEngine\Utility.h(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ale-a\source\repos\ASCIIGameEngine\Game.cpp(249,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ASCIIGameEngine.vcxproj -> C:\Users\ale-a\source\repos\ASCIIGameEngine\Debug\ASCIIGameEngine.exe
